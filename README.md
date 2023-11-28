@@ -29,9 +29,30 @@ Note-
 ![image](https://github.com/Rushilrajesh1256/Oscillating-Cylinder-flow-prediction-Lattice-Boltzmann-method/assets/152313008/2106190b-36a6-4bb6-86cb-cc97af708893)
 
 
+instructions-
+1)geomatry can be modified by changing the parametrs of  the distance function (simple shapes can be made)
+2)to set boundary  conditions the following equations  are to be used
+  
+  
+  1)
+  ![image](https://github.com/Rushilrajesh1256/Oscillating-Cylinder-flow-prediction-Lattice-Boltzmann-method/assets/152313008/c3321258-1854-418f-9cad-c9e60f68ce8e)
 
 
-![image](https://github.com/Rushilrajesh1256/Oscillating-Cylinder-flow-prediction-Lattice-Boltzmann-method/assets/152313008/21768459-faca-46fc-83bd-e3d456ab4add)
+  2)
+  ![image](https://github.com/Rushilrajesh1256/Oscillating-Cylinder-flow-prediction-Lattice-Boltzmann-method/assets/152313008/22e8dab0-072c-4ace-a315-c9b465268628)
+
+
+3)ensure  the  courant numberis  less  thatn 1 to predict   resutls accuratley
+
+
+
+
+
+
+
+
+  
+
 
 
 
